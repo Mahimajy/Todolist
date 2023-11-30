@@ -205,7 +205,7 @@
 
 .task-box::-webkit-scrollbar-track{
 
-  background: #8B4513;
+  background: #f1f1f1;
 
   border-radius: 25px;
 
@@ -213,7 +213,7 @@
 
 .task-box::-webkit-scrollbar-thumb{
 
-  background: #e6e6e6;
+  background: #8B4513;
 
   border-radius: 25px;
 
@@ -473,5 +473,5 @@ body {
 
     color: #000000;
 
-    font-size: 40px;
+    font-size: 30px;
 
