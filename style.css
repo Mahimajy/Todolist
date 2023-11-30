@@ -162,8 +162,7 @@
 
   transition: transform 0.25s ease;
 
-  background: linear-gradient(135deg, #62c8e5 0%, #ef9359 100%);
-
+  background: #4286f4; 
 }
 
 .clear-btn.active{
